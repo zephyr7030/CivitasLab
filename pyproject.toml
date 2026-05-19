@@ -1,0 +1,14 @@
+[project]
+name = "civitaslab"
+version = "3.0.0-system-stage"
+description = "CivitasLab social-ecological-economic simulation research platform"
+requires-python = ">=3.10"
+dependencies = [
+  "openpyxl",
+]
+
+[tool.civitaslab]
+legacy_name = "BOT8"
+[tool.bot8]
+system_stage = true
+legacy_gui_preserved = true

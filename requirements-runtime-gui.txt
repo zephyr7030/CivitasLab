@@ -1,0 +1,4 @@
+openpyxl
+PySide6
+pyqtgraph
+numpy
